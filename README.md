@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Pawan Kumar 👋
 
-<!--
-**pawanamolakh86/pawanamolakh86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my official GitHub portfolio 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 About Me
+- 🎓 **Role / Field:** Student & Aspiring Software Developer / Tech Enthusiast
+- 💡 **Interests:** [ Web Development, Data Science, Python Programming]
+- 🚀 **Goals:** Passionate about learning new technologies and leveraging code to solve real-world problems.
+- 📫 **Contact:** [pawanamolakh86@gmail.com]
+
+---
+
+## 🛠️ Technical Skills
+- **Programming Languages:** Python, JavaScript, HTML, CSS
+- **Tools & Frameworks:** Git, GitHub, VS Code
+
+---
